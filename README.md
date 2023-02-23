@@ -1,4 +1,4 @@
-# Cool Card Deck- Inspiration Alternative
+# Wild Cards - Inspiration Alternative
 When a player does something very cool or heroic, instead of giving them Inspiration, reward them with a random draw from a standard deck of cards.
 
 That player gets to keep the card until they decide to spend it or until the current adventure is resolved.
@@ -8,19 +8,19 @@ When the GM does something very cool or funny, the players can decide to reward 
 
 When a player decides to spend the card, they get a benefit corresponding to the card’s suit and number:
 
-## Numbers [2-10] (66.67%)
+## Numerals [2 to 10] (66.67%)
 ||||
 |:-:|:-:|-|
 ♠|Spade|add half the number rounded up to a skill/ability check.
-♥|Heart|regain half the number rounded up in HP.
+♥|Heart|regain half the number rounded up in HP (unless HP = 0).
 ♣|Club|add the half the number rounded up to a damage roll.
 ♦|Diamond|the player finds double the number in gold pieces.
 
-## Royalty (22.22%)
+## Court (22.22%)
 ### Jack
 ||||
 |:-:|:-:|-|
-♠|Spade|re-roll a die, but keep the first number and use it the next time you have to roll that die
+♠|Spade|re-roll a die, but keep the first number and use it the next time you have to roll that die.
 ♥|Heart|regain 11 HP, but deal 5 damage to the player that currently has the most HP.
 ♣|Club|deal 11 damage to a random enemy, but heal 11 HP to another.
 ♦|Diamond|gain a single use spell slot for a random level 1 spell.
