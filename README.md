@@ -43,7 +43,7 @@ When a card is spent, put it in the pile of spent cards. Add the pile of spent c
 ♠|Spade|add +1 to an ability modifier for a day.
 ♥|Heart|you naturally charm a character, until you cause harm to them or do something very foolish.
 ♣|Club|you naturally frighten a character, until you make amends or do something very foolish.
-♦|Diamond|find a diamond.
+♦|Diamond|invoke a sudden twist in the game. The GM must approve of the twist.
 
 ## Ace (7.41%)
 ||||
