@@ -35,7 +35,8 @@ When a card is spent, put it in the pile of spent cards. Add the pile of spent c
 ♠|Spade|gain +1 for a skill of your choice, until the session ends.
 ♥|Heart|move a curse/effect from an object/creature, to another, or cast Bless on a creature.
 ♣|Club|when attacking, attack once more.
-♦|Diamond|find an object that you know some one is looking for (GM's discretion).
+♦|Diamond|find an object that you know someone[^3] (an NPC) is looking for (GM's discretion).
+[^3]The GM determines if you know the person or the object from before. The point is to make the GM come up with new story ideas and quests on the spot, not resolve them.
 
 ### King
 ||||
